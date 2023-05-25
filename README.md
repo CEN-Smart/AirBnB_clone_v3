@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Oliver Samuel - [Github](https://github.com/Tecnophille)   
-Jane Affamuefuna - [Github](https://github.com/Jayneey) 
+Echi Nnanna - [Github](https://github.com/CEN-Smart)   
+Peter Okon - [Github](https://github.com/Peterpet864) 
 
 
 ## License
